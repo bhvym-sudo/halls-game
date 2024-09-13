@@ -1,0 +1,14 @@
+this game is is similar to game called exit 8
+#LOGIC
+the game logic is like, if any anomaly is detected on any floor then player should go upwards, if anomaly is not there then player should
+go downwards but sometimes player can get confused and can take a wrong path, for example if there is any anomaly on any floor, and the 
+player does not notice it ,a1nd instead of going upwards he go downwards thinking that there is no anomaly there, so on going downwards player will reach on the top
+floor and starting game again.
+but if there is no anomaly in the floor and the player hallucinate and thinks that there is anomaly on the floor and choose to go down, the he will again reach the level1
+which is top floor.
+
+if there is anomaly on the floor and player does notice it and take the elevator for up then he goes to next level which is down floor, and if there is no anomaly and 
+player also notice this and go down instead of going up then he also reaches next level which is downfloor
+the player should have a presence of mind and keep noticing the anomalies and remeber the layout of corridor 
+
+the games tests the photographic memory of player. the atmosphere of game is mystery and puzzling, and it gives the creepy vibes to the person playing it.
